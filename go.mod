@@ -64,7 +64,7 @@ require (
 	github.com/hetznercloud/hcloud-go v1.33.1
 	github.com/insomniacslk/dhcp v0.0.0-20211214070828-5297eed8f489
 	github.com/jsimonetti/rtnetlink v0.0.0-20211213041634-9dff439f7e79
-	github.com/jxskiss/base62 v1.0.0
+	github.com/jxskiss/base62 v1.1.0
 	github.com/mattn/go-isatty v0.0.14
 	github.com/mdlayher/arp v0.0.0-20191213142603-f72070a231fc
 	github.com/mdlayher/ethtool v0.0.0-20211214014908-bc8fdcf6e99c
