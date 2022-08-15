@@ -112,7 +112,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.1
 	go.etcd.io/etcd/etcdutl/v3 v3.5.1
 	go.uber.org/atomic v1.9.0
-	go.uber.org/zap v1.20.0
+	go.uber.org/zap v1.22.0
 	golang.org/x/net v0.0.0-20220121210141-e204ce36a2ba
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
@@ -122,7 +122,7 @@ require (
 	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/freddierice/go-losetup.v1 v1.0.0-20170407175016-fc9adea44124
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	inet.af/netaddr v0.0.0-20211027220019-c74959edd3b6
 	kernel.org/pub/linux/libs/security/libcap/cap v1.2.63
 	sigs.k8s.io/yaml v1.3.0
