@@ -83,7 +83,7 @@ require (
 	github.com/rivo/tview v0.0.0-20220106183741-90d72bc664f5
 	github.com/rs/xid v1.3.0
 	github.com/ryanuber/columnize v2.1.2+incompatible
-	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.7
+	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.10
 	github.com/spf13/cobra v1.3.0
 	github.com/stretchr/testify v1.7.0
 	github.com/talos-systems/crypto v0.3.5-0.20211220133734-6fa2d93d0382
